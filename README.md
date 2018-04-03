@@ -38,5 +38,20 @@ DFHack modifications used:
 
 None of the above are required, but are being used. Turn off at your own peril/benefit.
 
-Generated world is high savagery, low civ, high minerals. Medium size.
+---
+# ILUSNITOM
+## The Everseeing Planet
+---
+
+Generated world has several important settings:
+```
+World Size: Medium
+History: Short
+Number of Civilizations: Low
+Max Number of Sites: High
+Number of (Mega)Beasts: High
+Natural Savagery: High
+Mineral Occurence: Frequent
+```
+
 ---
